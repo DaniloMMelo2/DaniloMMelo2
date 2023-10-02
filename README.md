@@ -5,5 +5,5 @@
 
 
 - 🔎 Atualmente estou apreendendo um sobre esse mundo vasto da programação! 💻
-- 🔗 | HTML | CSS | JavaScrip | React |
+- 🔗 | HTML | CSS | JavaScript | React |
 - 🌎 | English Student |
